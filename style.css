@@ -35,13 +35,13 @@ details {
   float: left;
 }
 
-#outer-div {
+div #outer-div {
   width: 100%;
   text-align: center;
   background-color: #0666a3
 }
 
-#inner-div {
+div #inner-div {
   display: inline-block;
   margin: 0 auto;
   padding: 3px;
