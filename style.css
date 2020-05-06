@@ -31,9 +31,10 @@ section p {
 }
 
 details {
-  margin: 0 auto;
-  width: 50%;
+  display: block;
+  float: left;
 }
+
 div {
   background: red;
   margin: 0 auto;
