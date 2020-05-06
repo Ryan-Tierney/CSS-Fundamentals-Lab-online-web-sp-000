@@ -35,18 +35,9 @@ details {
   float: left;
 }
 
-div #outer-div {
-  width: 100%;
-  text-align: center;
-  background-color: #0666a3
+
+div {
+  background: red;
+  width: 25%;
 }
-
-div #inner-div {
-  display: inline-block;
-  margin: 0 auto;
-  padding: 3px;
-  background-color: #8ebf42
-}
-
-
 
